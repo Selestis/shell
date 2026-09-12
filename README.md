@@ -1,4 +1,6 @@
 <h1 align=center>caelestia-shell</h1>
+> **Note**  
+> This project is an independent fork and modification of the [Caelestia](https://github.com/caelestia-dots) ecosystem, licensed under the GNU General Public License v3.0.
 
 <div align=center>
 
