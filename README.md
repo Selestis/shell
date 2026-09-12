@@ -1,6 +1,4 @@
 <h1 align=center>caelestia-shell</h1>
-> **Note**  
-> This project is an independent fork and modification of the [Caelestia](https://github.com/caelestia-dots) ecosystem, licensed under the GNU General Public License v3.0.
 
 <div align=center>
 
@@ -11,6 +9,9 @@
 [![Discord invite](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FBGDCFCmMBk%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&labelColor=101418&color=96f1f1&link=https%3A%2F%2Fdiscord.gg%2FBGDCFCmMBk)][discord]
 
 </div>
+
+> **Note**  
+> This project is an independent fork and modification of the [Caelestia](https://github.com/caelestia-dots) ecosystem, licensed under the GNU General Public License v3.0.
 
 https://github.com/user-attachments/assets/0840f496-575c-4ca6-83a8-87bb01a85c5f
 
