@@ -1,0 +1,37 @@
+qml_module(selestis-services
+    URI Selestis.Services
+    SOURCES
+        service.cpp
+        serviceref.cpp
+        beattracker.cpp
+        audiocollector.cpp
+        audioprovider.cpp
+        cavaprovider.cpp
+        tickingservice.cpp
+        sensorslib.cpp
+        cpu.cpp
+        gpu.cpp
+        memory.cpp
+        diskinfo.cpp
+        storage.cpp
+        lyriccandidate.cpp
+        lyrics.cpp
+        sessionmanager.cpp
+        networkusage.cpp
+        hyprdevices.cpp
+        hyprextras.cpp
+    LIBRARIES
+        Qt::Concurrent
+        Qt::DBus
+        Qt::Network
+        PkgConfig::Pipewire
+        PkgConfig::Aubio
+        PkgConfig::Cava
+        Sensors::Sensors
+        selestis-util
+        selestis-core
+        selestis-config
+    DEPENDENCIES
+        Selestis
+        Selestis.Config
+)
